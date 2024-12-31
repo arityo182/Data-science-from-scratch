@@ -20,6 +20,7 @@ lib64/
 parts/
 sdist/
 var/
+Scripts/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -61,4 +62,6 @@ target/
 .#*
 
 # Notebook Checkpoints
-.ipynb_checkpoints/
+.ipynb_checkpoints
+
+.cfg
